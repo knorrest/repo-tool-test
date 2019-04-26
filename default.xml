@@ -3,8 +3,8 @@
   <remote name="origin" fetch="ssh://git@github.com/" />
   <default revision="master" remote="origin" />
 
-  <project path="knorrest/docker"
-           name="knorrest/docker.git" remote="origin" />
+  <project path="empear-analytics/codescene-enterprise-pm-jira"
+           name="empear-analytics/codescene-enterprise-pm-jira" remote="origin" />
 
   <project path="empear-analytics/codescene-jenkins-plugin"
            name="empear-analytics/codescene-jenkins-plugin.git" remote="origin" />
