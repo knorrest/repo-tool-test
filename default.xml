@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com/" />
+  <default revision="master" remote="origin" />
+
+  <project path="knorrest/docker"
+           name="knorrest/docker.git" remote="origin" />
+
+  <project path="empear-analytics/codescene-jenkins-plugin"
+           name="empear-analytics/codescene-jenkins-plugin.git" remote="origin" />
+
+</manifest>
